@@ -28,4 +28,4 @@ Der Kanon um den Detektiv umfasst 56 Kurzgeschichten und vier Romane.
 > so unwahrscheinlich sie auch klingen mag."
 
 #### Bild
-![Alt-Text](C:\Users\m_hai\LetsGit\m-haid.github.io\sherlock.png "Bester Sherlock Holmes Darsteller")
+<img src="https://www.pcgames.de/screenshots/original/2019/02/Belana5-pc-games1.jpg"/>
