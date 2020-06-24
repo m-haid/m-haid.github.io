@@ -8,3 +8,15 @@ Besondere Bedeutung für die Kriminalliteratur erlangten Doyles Werke durch die 
 Holmes gilt bis hetue weithin als Symbol des erfolgreichen, analytisch-rationalen Denkers und als Stereotyp des Privatdetektivs. 
 
 Der Kanon um den Detektiv umfasst 56 Kurzgeschichten und vier Romane. 
+
+
+## individuelle Charaktereigenschaften
+
+* spielt Geige
+* raucht Pfeife
+* lebt in der Baker Street 221b
+* sein Gegenspieler bei der Polizei ist Inspektor Lestrade von Scotland Yard
+* ist beruehmt für seine ungewoehnlichen Schlussfolgerungen und innovativen Deduktionen
+* bester Freund ist der Arzt Dr. Watson
+* gefaehrlichster Gegenspielen: James Moriarty
+* beide stürzen in die Reichenbachfälle (Schweiz) und sterben
