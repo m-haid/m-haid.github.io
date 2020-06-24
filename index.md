@@ -14,9 +14,11 @@ Der Kanon um den Detektiv umfasst 56 Kurzgeschichten und vier Romane.
 
 * spielt Violine
 * raucht Pfeife
+* trägt abends einen rot-goldenen Morgenmantel
 * lebt in der Baker Street 221b
 * sein Gegenspieler bei der Polizei ist Inspektor Lestrade von Scotland Yard
 * ist berühmt für seine ungewöhnlichen Schlussfolgerungen und innovativen Deduktionen
+* hat auch einen Bruder Mycroft (Politikberater)
 * bester Freund ist der Arzt Dr. Watson
 * gefährlichster Gegenspieler: James Moriarty
 * beide stürzen in die Reichenbachfälle (Schweiz) und sterben
@@ -24,3 +26,6 @@ Der Kanon um den Detektiv umfasst 56 Kurzgeschichten und vier Romane.
 ### Lieblingszitat
 > "Wenn man das Unmögliche ausgeschlossen hat, muss das, was übrig bleibt, die Wahrheit sein, 
 > so unwahrscheinlich sie auch klingen mag."
+
+#### Bild
+<img src="https://www.pcgames.de/screenshots/original/2019/02/Belana5-pc-games1.jpg"/>
